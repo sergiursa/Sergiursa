@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**sergiursa/Sergiursa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Sergio Urbano
 
-Here are some ideas to get you started:
+**Developer | React.js · Java · Node.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construyo aplicaciones web modernas y escalables. 🚀
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 📫 Contacto
+
+- Email: tu-email@ejemplo.com
+- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
