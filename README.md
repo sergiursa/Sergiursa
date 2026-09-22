@@ -1,8 +1,6 @@
 # 👋 Hola, soy Sergio Urbano
 
-**Developer | React.js · Java · Node.js**
-
-Construyo aplicaciones web modernas y escalables. 🚀
+Desarrollador ,apasionado por crear aplicaciones web modernas y escalables.
 
 ## 🛠️ Tecnologias
 
