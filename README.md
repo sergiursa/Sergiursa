@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, soy Sergio Urbano
 
 **Developer | React.js · Java · Node.js**
@@ -14,5 +12,5 @@ Construyo aplicaciones web modernas y escalables. 🚀
 
 ## 📫 Contacto
 
-- Email: tu-email@ejemplo.com
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
+- Email: saus1@hotmail.com
+- LinkedIn: [tu-perfil](www.linkedin.com/in/saus)
